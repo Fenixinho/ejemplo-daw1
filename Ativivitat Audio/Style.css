@@ -1,0 +1,48 @@
+.content{
+    height: 97vh;
+    width: 96vw;
+    border: 5px solid rgba(3, 1, 16, 0.924);
+    background:linear-gradient(to bottom, blue, black );
+    display: flex;
+    flex-direction: row;
+    
+}
+.foto{
+    height: 97vh;
+    width: 48vw;
+    background-image: url("img/AmyFinal.jpg");
+    background-position: center;
+    background-size: cover;
+    /*Cover es para que ocupe todo el div*/
+    
+    color: azure;
+}
+.reproductor div{
+    height: 300px;
+    width: 900px;
+    
+}
+
+h1{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1700px;
+    margin-left: 1400px;
+    font-size: 50px;
+    
+}
+
+.primero{
+    margin: 300px 0px 0px 100px;
+    
+}
+
+.segundo{
+    margin: 0 px 0px 0px 500px;
+}
+
+.segundo audio{
+    margin: 0px 0px 0px 300px;
+}
+
+  

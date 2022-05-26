@@ -1,0 +1,26 @@
+.contenedor{
+    height: 500px;
+    width: 95 vw;
+    background-color: rgb(1, 1, 182);
+    border: black solid 7px;
+
+}
+.videoContenedor{
+    display: flex;
+    flex-direction: row;
+    
+}
+video{
+    width: 350px;
+    height: 400px;
+    margin: 0px 0px 0px 0px;
+}
+
+a{
+    margin-left: 200px;
+}
+
+h1{
+    margin-left: 50px;
+    color: azure;
+}
