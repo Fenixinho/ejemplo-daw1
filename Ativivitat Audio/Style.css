@@ -1,16 +1,18 @@
 .content{
     height: 97vh;
     width: 96vw;
-    border: 5px solid rgba(3, 1, 16, 0.924);
-    background:linear-gradient(to bottom, blue, black );
+    border: 7px solid black;
+    background:linear-gradient( to left, black, white );
     display: flex;
     flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 .foto{
     height: 97vh;
     width: 48vw;
-    background-image: url("img/AmyFinal.jpg");
+    background-image: url("img/NuevaImagen.jpg");
     background-position: center;
     background-size: cover;
     /*Cover es para que ocupe todo el div*/
@@ -24,16 +26,16 @@
 }
 
 h1{
-    color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-family: 'Monoton', cursive;
     width: 1700px;
-    margin-left: 1400px;
+    margin-left: 1100px;
     font-size: 50px;
     
 }
 
 .primero{
-    margin: 300px 0px 0px 100px;
+    margin: 400px 0px 0px 300px;
     
 }
 
@@ -42,7 +44,7 @@ h1{
 }
 
 .segundo audio{
-    margin: 0px 0px 0px 300px;
+    margin: -250px 0px 0px 300px;
 }
 
   

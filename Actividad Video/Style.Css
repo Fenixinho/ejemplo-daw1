@@ -1,7 +1,8 @@
 .contenedor{
-    height: 500px;
+    height: 900px;
     width: 95 vw;
-    background-color: rgb(1, 1, 182);
+    margin: 0px 0px 0px 0px;
+    background-image: -moz-linear-gradient(left, white, rgb(22, 22, 22));
     border: black solid 7px;
 
 }
@@ -13,7 +14,7 @@
 video{
     width: 350px;
     height: 400px;
-    margin: 0px 0px 0px 0px;
+    margin: 100px 0px 0px 0px;
 }
 
 a{
@@ -22,5 +23,7 @@ a{
 
 h1{
     margin-left: 50px;
-    color: azure;
+    color: black;
+    font-family: 'Smooch', cursive;
+    font-size: 70px;
 }

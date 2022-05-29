@@ -20,6 +20,7 @@
     display: flex;
     flex-direction:row;
     text-align: center;
+    background-image: -moz-linear-gradient(to right, black, white);
 }
 
 .header div{
@@ -58,13 +59,14 @@
     width: 97vw;
     margin: 0px 0px 0px -5px;
     border: 5px solid black;
-    background-image: linear-gradient(black, white);
+    background-image: linear-gradient(to right, black, white);
     color: white;
-    font-size: 50px;
+    font-size: 70px;
+    font-family: 'My Soul', cursive;
 }
 
 p{
-    color: antiquewhite;
+    color: black;
     font-size: 20px;
-    margin: 0px 0px 0px -100px;
+   
 }
