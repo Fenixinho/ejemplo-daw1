@@ -34,7 +34,7 @@ i{
     border: 1px solid black;
     color: black;
     background-image: linear-gradient( white, black);
-    margin: 11px;
+    margin: 10px 0px 0px 23px;
     
 }
 .header p{
@@ -54,7 +54,7 @@ i{
     height: 200px;
     width: 250px;
     border: black solid 1px;
-    margin: 25px;
+    margin: 100px 0px 0px 40px;
     background-image: linear-gradient(white, black);
     
 }
