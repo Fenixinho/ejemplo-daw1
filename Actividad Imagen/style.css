@@ -1,3 +1,7 @@
+*{
+  font-family:'Smooch', cursive;
+  font-size: 50px;
+}
 body {
   margin: 250px 0px 0px 0px;
   background-image:-moz-linear-gradient(to right, black, white);

@@ -47,4 +47,16 @@ h1{
     margin: -250px 0px 0px 300px;
 }
 
+p{
+    margin: 20px 0px 0px 0px;
+    
+}
+
+.segundo p{
+    margin: 0px 0px 0px 300px;
+}
+
+.primero p{
+    margin: 0px 0px 0px 0px;
+}
   
